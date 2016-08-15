@@ -1,3 +1,17 @@
 # Summary
+* [基本安裝](howtouse/README.md)                    
+ - [Node.js安裝](howtouse/Nodejsinstall.md)         
+ - [Gitbook安裝](howtouse/gitbookinstall.md)        
+ - [Gitbook命令列速覽](howtouse/gitbookcli.md)      
+* [圖書編輯](book/README.md)                        
+ - [gitbook命令列&markdown編輯](book/gitbook-cli.md)
+ - [gitbook editor編輯](book/editor.md)             
+* [圖書輸出](output/README.md)                      
+ - [輸出為靜態網站](output/outfile.md)              
+ - [輸出PDF](output/pdfandebook.md)                 
+* [發佈](publish/README.md)                         
+  - [發佈到gitbook.com](publish/gitbook.md)         
+  - [Github集成](publish/github.md)                 
+  - [發佈到Github Pages](publish/gitpages.md)       
+* [結束](end/README.md)  
 
-* [First Chapter](chapter1.md)
